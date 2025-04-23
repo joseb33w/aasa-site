@@ -2,7 +2,7 @@
   "applinks": {
     "apps": [],
     "details": [
-      { "appID": "T3JKB9F775.com.joseb.jabu", "paths": [ "/*" ] }
+      { "appID": "T3JKB9F775.com.joseb.jabu", "paths": [ "/hello", "/oauth-redirect/*" ] }
     ]
   }
 }
