@@ -1,17 +1,9 @@
 {
   "applinks": {
-    "apps": [],
     "details": [
       {
-        "appIDs": [
-          "TJ3KB9F775.com.joseb.jabu"
-        ],
-        "components": [
-          {
-            "/": "/plaid-video/redirect/*",
-            "comment": "OAuth Redirect from Plaid Video"
-          }
-        ]
+        "appID": "TJ3KB9F775.com.joseb.jabu",
+        "paths": [ "/plaid-video/redirect/*" ]
       }
     ]
   }
