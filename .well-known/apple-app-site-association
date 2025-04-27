@@ -3,7 +3,7 @@
     "details": [
       {
         "appID": "TJ3KB9F775.com.joseb.jabu",
-        "paths": [ "/plaid-video/redirect/*" ]
+        "paths": [ "/plaiding/redirect/*" ]
       }
     ]
   }
