@@ -2,7 +2,7 @@
   "applinks": {
     "details": [
       {
-        "appID": "TJ3KB9F775.com.plaid.video1",
+        "appID": "TJ3KB9F775.com.plaid.project.video1",
         "paths": [ "/plaid-video/redirect/*" ]
       }
     ]
